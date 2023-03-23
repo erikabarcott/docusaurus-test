@@ -1,0 +1,204 @@
+{
+  "/docusaurus-test/build/blog-7bb": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "1dd0d832"
+  },
+  "/docusaurus-test/build/blog/archive-439": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "archive": "6a37d6c2"
+  },
+  "/docusaurus-test/build/blog/first-blog-post-be1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/docusaurus-test/build/blog/long-blog-post-3f0": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/docusaurus-test/build/blog/mdx-blog-post-cb8": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/docusaurus-test/build/blog/tags-3a5": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "tags": "ddfca37a"
+  },
+  "/docusaurus-test/build/blog/tags/docusaurus-751": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "7c36eb40",
+    "listMetadata": "359e8c3c"
+  },
+  "/docusaurus-test/build/blog/tags/facebook-9e6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "c0806506",
+    "listMetadata": "daf2a792"
+  },
+  "/docusaurus-test/build/blog/tags/hello-90a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "b8c5948f",
+    "listMetadata": "dc91ea52"
+  },
+  "/docusaurus-test/build/blog/tags/hola-1f8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "1e7badcd",
+    "listMetadata": "065acfae"
+  },
+  "/docusaurus-test/build/blog/welcome-366": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "cdfcef5b"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/docusaurus-test/build/markdown-page-58c": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "9e5dc2a9"
+    },
+    "content": "393be207"
+  },
+  "/docusaurus-test/build/docs-48a": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "7e06c17c"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docusaurus-test/build/docs/category/tutorial---basics-9e1": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "88d0380c"
+  },
+  "/docusaurus-test/build/docs/category/tutorial---extras-d44": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "bd9637f0"
+  },
+  "/docusaurus-test/build/docs/intro-23b": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docusaurus-test/build/docs/tutorial-basics/congratulations-b8b": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/docusaurus-test/build/docs/tutorial-basics/create-a-blog-post-640": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/docusaurus-test/build/docs/tutorial-basics/create-a-document-83a": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/docusaurus-test/build/docs/tutorial-basics/create-a-page-abc": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/docusaurus-test/build/docs/tutorial-basics/deploy-your-site-8d5": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/docusaurus-test/build/docs/tutorial-basics/markdown-features-384": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/docusaurus-test/build/docs/tutorial-extras/manage-docs-versions-8c5": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/docusaurus-test/build/docs/tutorial-extras/translate-your-site-e99": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/docusaurus-test/build/-7f2": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "9e5dc2a9"
+    },
+    "config": "5e9f5e1a"
+  }
+}
