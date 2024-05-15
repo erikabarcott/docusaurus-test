@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodiac=self.webpackChunkcodiac||[]).push([[1704],{1157:t=>{t.exports=JSON.parse('{"tags":[{"label":"Intro","permalink":"/docs/tags/intro","count":16},{"label":"Getting started","permalink":"/docs/tags/getting-started","count":16},{"label":"API","permalink":"/docs/tags/api","count":1}]}')}}]);

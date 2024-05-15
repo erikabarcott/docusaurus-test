@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodiac=self.webpackChunkcodiac||[]).push([[3338],{6776:a=>{a.exports=JSON.parse('{"tag":{"label":"API","permalink":"/docs/tags/api","allTagsPath":"/docs/tags","count":1,"items":[{"id":"api-base/index","title":"Codiac API Platform","description":"Documentation for the Codiac API platform.","permalink":"/docs/api-base/"}],"unlisted":false}}')}}]);
